@@ -13,6 +13,7 @@ namespace Even_Odd_Conditions
             string name = Console.ReadLine();
             string evenOddString;
             string input = "y";
+
             while (input == "y")
             {
                 valid = false;
@@ -64,7 +65,7 @@ namespace Even_Odd_Conditions
                     input = Console.ReadLine();
                     input = input.Substring(0, 1).ToLower();
 
-                    if (input == "y" | input == "n")
+                    if (input == "y" || input == "n")
                     {
                         valid = true;
                         break;

@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\bin\Debug\netcoreapp3.1\Even-Odd-Conditions.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\obj\Debug\netcoreapp3.1\Even-Odd-Conditions.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\obj\Debug\netcoreapp3.1\Even-Odd-Conditions.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\obj\Debug\netcoreapp3.1\Even-Odd-Conditions.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\obj\Debug\netcoreapp3.1\Even-Odd-Conditions.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Even-Odd-Conditions\Even-Odd-Conditions\obj\Debug\netcoreapp3.1\Even-Odd-Conditions.pdb
