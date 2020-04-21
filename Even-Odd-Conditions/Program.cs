@@ -43,6 +43,7 @@ namespace Even_Odd_Conditions
                     evenOddString = "odd";
                 }
 
+                //DETERMINE MAGNITUDE
                 if ((number < 25) && isEven)
                 {
                     Console.WriteLine("Even and less than 25");
