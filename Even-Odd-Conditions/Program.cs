@@ -62,7 +62,7 @@ namespace Even_Odd_Conditions
                 {
                     Console.WriteLine($"Would you, {name}, like to try again? (y/n)");
                     input = Console.ReadLine();
-                    input = input.Substring(0, 1);
+                    input = input.Substring(0, 1).ToLower();
 
                     if (input == "y" | input == "n")
                     {
